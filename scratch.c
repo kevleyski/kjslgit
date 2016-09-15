@@ -15,4 +15,10 @@ Foo::yac()
 
 Foo::addConflict()
 {
+int Foo::getBar()
+{
+	if (bar > 0)
+		return bar;
+
+	return 0;
 }
