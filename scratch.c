@@ -18,3 +18,5 @@ int Foo::getBar()
 }
 
 // Added in vim
+
+// Added in eclipse
