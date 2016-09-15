@@ -1,1 +1,3 @@
 AC_INIT()
+
+AC_CONFIG_FILES([Makefile])
