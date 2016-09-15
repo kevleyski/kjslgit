@@ -1,0 +1,2 @@
+Foo	scratch.c	/^Foo::Foo()$/
+anotherConflict	scratch.c	/^Foo::anotherConflict()$/

@@ -7,7 +7,10 @@ class Foo
 public:
 	Foo();
 	virtual ~Foo();
+	addConflict();
+	yac();
 	int getBar();
+	anotherConflict();
 }
 
 // added in brach add_bar
