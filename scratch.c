@@ -11,5 +11,8 @@ Foo::~Foo()
 
 int Foo::getBar()
 {
-	return bar;
+	if (bar > 0)
+		return bar;
+
+	return 0;
 }
