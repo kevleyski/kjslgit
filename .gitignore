@@ -5,3 +5,10 @@
 *~
 configure
 autom4te*
+*.orig
+*.m4
+*~
+configure
+autom4te*
+install-sh
+aclocal*
