@@ -52,6 +52,7 @@ int main() {
 //Assert number 0 edges >= 8 (for a rectangle)
 //Assert we dont have many of same peice (that is it would not be solvable
 
+
   Jigsaw puzzle;
 
   std::vector<Piece> bag;
@@ -59,6 +60,7 @@ int main() {
   std::vector<int> edge_set; /* { -50, ... 0,... +50 }; */
 
   std::cout << "--------------------\n\n";
+
 
   KevBinTree<int> tree;
   tree.insert(14);
@@ -77,6 +79,6 @@ int main() {
   strtree.insert("OK");
   strtree.insert("FOO");
   std::cout << strtree;
-
+    
   return 0;
 }
