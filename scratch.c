@@ -9,6 +9,10 @@ Foo::~Foo()
 {
 }
 
+Foo::yac()
+{
+}
+
 Foo::addConflict()
 {
 }
