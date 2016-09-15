@@ -16,3 +16,4 @@ int Foo::getBar()
 
 	return 0;
 }
+
