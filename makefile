@@ -1,3 +1,3 @@
 all:
-	$(CXX) scratch.cpp
-	$(CXX) bar.cpp
+	$(CXX) -c scratch.cpp
+	$(CXX) -c bar.cpp

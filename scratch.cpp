@@ -1,5 +1,4 @@
-#include <test>
-#include <scratch.h>
+#include "scratch.h"
 
 Foo::Foo()
 {
@@ -9,12 +8,14 @@ Foo::~Foo()
 {
 }
 
-Foo::yac()
+void Foo::yac()
 {
 }
 
-Foo::addConflict()
+void Foo::addConflict()
 {
+}
+
 int Foo::getBar()
 {
 	if (bar > 0)
@@ -30,3 +31,8 @@ int Foo::getBar()
 // Added in eclipse
 
 // Added in Xcode
+
+int main()
+{
+    return 0;
+}

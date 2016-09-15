@@ -1,5 +1,3 @@
-#include <test>
-
 class Foo
 {
 	int bar;
@@ -7,11 +5,11 @@ class Foo
 public:
 	Foo();
 	virtual ~Foo();
-	addConflict();
-	yac();
+	void addConflict();
+	void yac();
 	int getBar();
-	anotherConflict();
-}
+	void anotherConflict();
+};
 
 // added in brach add_bar
 
