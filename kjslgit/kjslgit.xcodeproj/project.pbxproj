@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		A916632A1D8A46DC00602EF9 /* bar.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = bar.cpp; path = ../bar.cpp; sourceTree = "<group>"; };
 		A916632B1D8A46DC00602EF9 /* bar.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = bar.hpp; path = ../bar.hpp; sourceTree = "<group>"; };
+		A916632C1D8A479200602EF9 /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Makefile.am; path = ../Makefile.am; sourceTree = "<group>"; };
 		A98256BB1D8A422B00F000BA /* configure.ac */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = configure.ac; path = ../configure.ac; sourceTree = "<group>"; };
 		A98256BC1D8A422B00F000BA /* scratch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = scratch.cpp; path = ../scratch.cpp; sourceTree = "<group>"; };
 		A98256BD1D8A422B00F000BA /* scratch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = scratch.h; path = ../scratch.h; sourceTree = "<group>"; };
@@ -18,6 +19,7 @@
 		A98256B01D8A421700F000BA = {
 			isa = PBXGroup;
 			children = (
+				A916632C1D8A479200602EF9 /* Makefile.am */,
 				A98256BB1D8A422B00F000BA /* configure.ac */,
 				A98256BC1D8A422B00F000BA /* scratch.cpp */,
 				A916632A1D8A46DC00602EF9 /* bar.cpp */,
