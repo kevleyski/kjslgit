@@ -3,6 +3,7 @@
 class Foo
 {
 	Foo();
+	virtual ~Foo();
 }
 
 
