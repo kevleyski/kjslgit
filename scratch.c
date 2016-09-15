@@ -1,6 +1,10 @@
 #include <test>
+#include <scratch.h>
 
-class Foo
+Foo::Foo
 {
+	
 }
+
+
 
