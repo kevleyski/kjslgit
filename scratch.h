@@ -10,6 +10,7 @@ public:
 	addConflict();
 	yac();
 	int getBar();
+	anotherConflict();
 }
 
 

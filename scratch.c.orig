@@ -1,0 +1,24 @@
+#include <test>
+#include <scratch.h>
+
+Foo::Foo()
+{
+}
+
+Foo::~Foo()
+{
+}
+
+<<<<<<< HEAD
+Foo::anotherConflict()
+{
+	// Going to need a merge
+}
+=======
+Foo::addConflict()
+{
+	// added from git snapshot
+
+}
+
+>>>>>>> 1a7bd53ff5c3c1583373ea8189d1a3fdfb40c278

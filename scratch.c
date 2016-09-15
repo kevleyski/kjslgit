@@ -22,3 +22,13 @@ int Foo::getBar()
 
 	return 0;
 }
+	// added from git snapshot
+
+}
+
+
+Foo::anotherConflict()
+{
+	// Going to need a merge
+}
+
