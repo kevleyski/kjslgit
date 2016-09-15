@@ -17,3 +17,4 @@ int Foo::getBar()
 	return 0;
 }
 
+// Added in vim
