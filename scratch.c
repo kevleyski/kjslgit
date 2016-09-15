@@ -1,5 +1,4 @@
-#include <test>
-#include <scratch.h>
+#include "scratch.h"
 
 Foo::Foo()
 {
