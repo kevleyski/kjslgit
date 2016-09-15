@@ -9,15 +9,16 @@ Foo::~Foo()
 {
 }
 
+<<<<<<< HEAD
+Foo::anotherConflict()
+{
+	// Going to need a merge
+}
+=======
 Foo::addConflict()
 {
 	// added from git snapshot
 
 }
 
-
-Foo::anotherConflict()
-{
-	// Going to need a merge
-}
-
+>>>>>>> 1a7bd53ff5c3c1583373ea8189d1a3fdfb40c278

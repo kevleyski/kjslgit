@@ -1,0 +1,15 @@
+#include <test>
+
+class Foo
+{
+	Foo();
+	virtual ~Foo();
+<<<<<<< HEAD
+	anotherConflict();
+=======
+	addConflict();
+>>>>>>> 1a7bd53ff5c3c1583373ea8189d1a3fdfb40c278
+}
+
+
+
