@@ -11,4 +11,7 @@ Foo::~Foo()
 
 Foo::addConflict()
 {
+	// added from git snapshot
+
 }
+
