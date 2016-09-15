@@ -1,0 +1,11 @@
+*.[oa]
+*.cmd.[oa]
+*.ko
+*.orig
+*.orig
+*.m4
+*~
+configure
+autom4te*
+install-sh
+aclocal*
