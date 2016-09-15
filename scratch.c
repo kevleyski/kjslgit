@@ -8,3 +8,7 @@ Foo::Foo()
 Foo::~Foo()
 {
 }
+
+Foo::addConflict()
+{
+}

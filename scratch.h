@@ -4,6 +4,7 @@ class Foo
 {
 	Foo();
 	virtual ~Foo();
+	addConflict();
 }
 
 
