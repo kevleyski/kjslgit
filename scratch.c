@@ -1,0 +1,6 @@
+#include <test>
+
+class Foo
+{
+}
+
