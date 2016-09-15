@@ -1,6 +1,7 @@
 *.[oa]
 *.cmd.[oa]
 *.ko
+*.orig
 *~
 configure
 autom4te*
