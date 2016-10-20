@@ -11,6 +11,30 @@
 
 #include <stdio.h>
 
+class Foo
+{
+    int bar;
+    
+public:
+    Foo();
+    virtual ~Foo();
+    void addConflict();
+    void yac();
+    int getBar();
+    void anotherConflict();
+};
+
+struct Piece {
+    std::vector<int> edges; /* { 0, 0, 1, -1 } */
+};
+
+struct Jigsaw {
+    
+    unsigned int width_in_pieces; /* edge case 0, assert */
+    unsigned int height_in_pieces; /* “ */
+};
+
+
 #endif /* bar_hpp */
 
 
